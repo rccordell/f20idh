@@ -1,7 +1,7 @@
 # Setup
 title:               ENGL 7370
 tagline:             'Introduction to Digital Humanities'
-description:         'A graduate seminar offered in the Northeastern University English Department, Fall 2020'
+description:         'A graduate seminar offered in the Northeastern University <a href="https://cssh.northeastern.edu/english/" target="_blank">English Department</a>, Fall 2020. Taught by <a href="https://ryancordell.org" target="_blank">Ryan Cordell</a>.'
 url:                 https://f20idh.ryancordell.org
 baseurl:             ''
 paginate:            5
