@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Home
+title: Updates
 ---
-
 
 <div class="posts">
   {% for post in paginator.posts %}
