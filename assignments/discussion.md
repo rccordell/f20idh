@@ -3,6 +3,14 @@ layout: page
 title: Leading Class Discussion
 ---
 
+## Overview
+
++ Students will work individually
++ Students will lead class once during the semester
++ We will sign up for classes during the first or second week of class
+
+## The Nitty-Gritty
+
 Once during the semester you will be responsible for leading our class discussion. This means a few things:
 
 1. You should read all the readings—including the optional readings—for your week carefully and well in advance.
