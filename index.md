@@ -3,6 +3,8 @@ layout: page
 title: Course Description
 ---
 
+
+
 ### Course Details
 
 + Meeting Day/Time: Wednesdays, 2:30-5:30 EDT
