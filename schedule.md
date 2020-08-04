@@ -3,6 +3,8 @@ layout: page
 title: Course Schedule
 ---
 
+![Visualization from Dear Data project](/images/giorgia_deardata_36_front.jpg)
+
 ## Schedule Notes
 
 ### On Readings:

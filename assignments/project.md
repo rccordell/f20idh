@@ -3,6 +3,9 @@ layout: page
 title: Final Project
 ---
 
+![Detail of Charles Babbage's difference engine](/images/4917215160_85bfa9e75c_b-Banner.jpg)
+
+
 ## Overview
 
 + Students will work collaborative, either in small groups or as a class

@@ -3,6 +3,11 @@ layout: page
 title: Course Policies
 ---
 
+![Computer punch card](https://live.staticflickr.com/1432/5151286161_f02ac67a18_b.jpg)
+
+*Image from [Pete Birkinshaw](https://www.flickr.com/photos/binaryape/5151286161/sizes/l/) via Flickr*
+
+
 ## Caveat Emptor
 
 This class may be a bit different from most of your graduate classes. I hope you will see these differences as exciting and intellectually stimulating, but you should be aware of the following caveats as we begin (and thanks to Miriam Posner for [writing the first draft](http://dh201.humanities.ucla.edu/2013/#why) of these caveats for her DH grad course). If you can face these challenges with persistence, verve, and (reasonably) good humor—and abide by the code of conduct outlined below—we should have an intellectually enlivening semester. If you have any concerns about these caveats, please come talk to me. I am confident we can find a way forward if we work together. 

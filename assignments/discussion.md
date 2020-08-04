@@ -3,6 +3,8 @@ layout: page
 title: Leading Class Discussion
 ---
 
+![Detail of Charles Babbage's difference engine](/images/4917215160_85bfa9e75c_b-Banner.jpg)
+
 ## Overview
 
 + Students will work individually

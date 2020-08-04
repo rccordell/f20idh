@@ -3,6 +3,8 @@ layout: page
 title: Course Assignments & Evaluation
 ---
 
+![Detail of Charles Babbage's difference engine](/images/4917215160_85bfa9e75c_b-Banner.jpg)
+
 ## Overview of Assignments
 
 Your work in Intro to DH will happen across four major assignments:
