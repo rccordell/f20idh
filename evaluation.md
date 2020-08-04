@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Course Assignments
+title: Course Assignments & Evaluation
 ---
 
 ## Overview of Assignments
