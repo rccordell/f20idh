@@ -80,7 +80,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 #### Core Readings:  
 
-+ Ryan Cordell, [“‘Q i-jtb the Raven’: Taking Dirty OCR Seriously,”](https://ryancordell.org/research/qijtb-the-raven/) *Book History* (2017)
++ Kim Gallon, ["Making a Case for the Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb) in *Debates in the Digital Humanities 2016* 
 + Katie Rawson and Trevor Muñoz, [“Against Cleaning,”](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23) from *Debates in the Digital Humanities 2019*
 + Katherine Bowers and Quinn Dombrowski, [“DSC #2: Katia and the Phantom Corpus”](https://datasittersclub.github.io/site/dsc2/) (2019)
 + Catherine D'Ignazio and Lauren F. Klein, ["Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://data-feminism.mitpress.mit.edu/pub/2wu7aft8/release/2) and ["The Numbers Don't Speak for Themselves"](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2) from *Data Feminism* (2020)
@@ -90,6 +90,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + N. Katherine Hayles, “Media and Materiality” and “Material Metaphors, Technotexts, and Media-Specific Analysis” from *Writing Machines* (2002)
 + Whitney Anne Trettien, [“A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica,”](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) *DHQ* (2013)
 + Ellen Gruber Garvey, “facts and FACTS: Abolitionists’ Database Innovations,” *“Raw Data” Is an Oxymoron* (2013)
++ Ryan Cordell, [“‘Q i-jtb the Raven’: Taking Dirty OCR Seriously,”](https://ryancordell.org/research/qijtb-the-raven/) *Book History* (2017)
 + David Mimno, [“Data Carpentry”](http://www.mimno.org/articles/carpentry/) (2015)
 
 #### Lab 4: Cleaning data
