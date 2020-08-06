@@ -28,6 +28,6 @@ Taking all that as given, I also want you to **_know_** that your health—both 
 
 ## Acknowledgments
 
-This version of "Intro to DH" In developing this course I learned from many people, but I particularly thank [Miriam Posner](https://miriamposner.com/), [Whitney Trettien](http://whitneyannetrettien.com/), and [Scott Weingart](https://scottbot.net/) for graduate syllabi from which I drew particular inspiration.  
+This version of "Intro to DH" In developing this course I learned from many people, but I particularly thank [Miriam Posner](https://miriamposner.com/), [Whitney Trettien](http://whitneyannetrettien.com/), and [Scott Weingart](https://scottbot.net/) for graduate syllabi from which I drew particular inspiration, and to [Katherine D. Harris](https://triproftri.wordpress.com/) for social media recommendations that shaped the early weeks of the schedule.  
 
 
