@@ -160,7 +160,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 + Richard Jean So, “All Models are Wrong” (2017) 
 + Bethany Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the-world/) (2018)
-+ Marisa Parham, ["Sample | Signal | Strobe: Haunting, Social Media, and Black Digitality,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0fa03a28-d067-40b3-8ab1-b94d46bf00b6#ch11) from *Debates in the Digital Humanities 2019* 
++ Marisa Parham, ["Sample \| Signal \| Strobe: Haunting, Social Media, and Black Digitality,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0fa03a28-d067-40b3-8ab1-b94d46bf00b6#ch11) from *Debates in the Digital Humanities 2019* 
 + Eun Seo Jo and Timnit Gebru, ["Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning"](http://arxiv.org/abs/1912.10389) (2020)
 
 #### Penumbral Readings:
