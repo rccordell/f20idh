@@ -61,17 +61,17 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 #### Core Readings: 
 
-+ Melissa Terras and Julianne Nyhan, [“Father Busa’s Female Punch Card Operatives”](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016* 
 + Jessica Marie Johnson, “Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads,” *Social Text* (2018)
 + Quinn Dombrowski, ["DSC #1 - Quinn’s Great idea"](https://datasittersclub.github.io/site/dsc1/) (2019)
++ Julia Flanders and Fotis Jannidis, “Data modeling in a digital humanities context” from *The Shape of Data in Digital Humanities* (2019).
 + Catherine D'Ignazio and Lauren F. Klein, ["Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2) and ["'What Gets Counted Counts'"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) from *Data Feminism* (2020) 
 
 #### Penumbral Readings:
 
 + Daniel Rosenberg, “Data Before the Fact,” from *“Raw Data” Is an Oxymoron*, MIT Press (2013)
++ Melissa Terras and Julianne Nyhan, [“Father Busa’s Female Punch Card Operatives”](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016* 
 + Sarah Allison, [“Other People’s Data: Humanities Edition,”](https://culturalanalytics.org/article/11822) *Cultural Analytics* (2016)
 + Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” *American Literary History* (2016)
-+ Julia Flanders and Fotis Jannidis, “Data modeling in a digital humanities context” from *The Shape of Data in Digital Humanities* (2019).
 + Catherine D'Ignazio and Lauren F. Klein, ["On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/3) from *Data Feminism* (2020) 
 
 #### Lab 3: Data and Metadata
