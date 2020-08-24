@@ -40,9 +40,9 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 #### Core Readings:  
 
 + Roberto Busa, “Why a Computer Can Do So Little,” *ALLC Bulletin* (1976)
-+ Roopika Risam, ["Beyond the Margins: Intersectionality and the Digital Humanities"](digitalhumanities.org/dhq/vol/9/2/000208/000208.html), *DHQ* (2015)
 + Kim Gallon, ["Making a Case for the Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled/section/fa10e2e1-0c3d-4519-a958-d823aac989eb) in *Debates in the Digital Humanities 2016* 
 + Ted Underwood, ["A Genealogy of Distant Reading"](http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html), *DHQ* (2017)
++ Roopika Risam, "The Postcolonial Digital Record" from *New Digital Worlds* (2019)
 + Catherine D'Ignazio and Lauren F. Klein, ["Introduction: Why Data Science Needs Feminism"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3) and ["The Power Chapter"](https://data-feminism.mitpress.mit.edu/pub/vi8obxh7/release/3) from *Data Feminism* (2020)
 
 #### Penumbral Readings:
@@ -50,6 +50,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Louis T. Milic, “The Next Step,” from *Computers and the Humanities* 1.1. (1966)
 + Rosanne G. Potter, “Literary Criticism and Literary Computing: The Difficulties of a Synthesis” from *Computers and the Humanities* (1988)
 + Yohei Igarashi, “Statistical Analysis at the Birth of Close Reading” from *New Literary History* (2015)
++ Roopika Risam, ["Beyond the Margins: Intersectionality and the Digital Humanities"](digitalhumanities.org/dhq/vol/9/2/000208/000208.html), *DHQ* (2015)
 + Scott B. Weingart, ["The Route of a Text Message, a Love Story"](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story?) (2019)
 
 #### Lab 2: A domain of your own
@@ -68,9 +69,9 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 #### Penumbral Readings:
 
 + Daniel Rosenberg, “Data Before the Fact,” from *“Raw Data” Is an Oxymoron*, MIT Press (2013)
-+ Julia Flanders and Fotis Jannidis, “Data Modeling,” from *A New Companion to the Digital Humanities* (2016).
 + Sarah Allison, [“Other People’s Data: Humanities Edition,”](https://culturalanalytics.org/article/11822) *Cultural Analytics* (2016)
 + Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” *American Literary History* (2016)
++ Julia Flanders and Fotis Jannidis, “Data modeling in a digital humanities context” from *The Shape of Data in Digital Humanities* (2019).
 + Catherine D'Ignazio and Lauren F. Klein, ["On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/3) from *Data Feminism* (2020) 
 
 #### Lab 3: Data and Metadata
@@ -92,6 +93,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Whitney Anne Trettien, [“A Deep History of Electronic Textuality: The Case of English Reprints Jhon Milton Areopagitica,”](http://digitalhumanities.org:8081/dhq/vol/7/1/000150/000150.html) *DHQ* (2013)
 + Ellen Gruber Garvey, “facts and FACTS: Abolitionists’ Database Innovations,” *“Raw Data” Is an Oxymoron* (2013)
 + David Mimno, [“Data Carpentry”](http://www.mimno.org/articles/carpentry/) (2015)
++ Roopika Risam, "Colonial Violence and the Postcolonial Digital Archive" from *New Digital Worlds* (2019)
 
 #### Lab 4: Cleaning data
 
@@ -141,14 +143,15 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 #### Core Readings:  
 
-+ Johanna Drucker, [“Humanities Approaches to Graphical Display,”](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *DHQ* (2011)
 + Giorgia Lupi and Stefanie Posavec, *Dear Data* (2016)
 + Kim Brillante Knight, ["Material Data Visualization as Feminist Praxis,"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/7b65b317-f23a-4f6a-a04a-70f266af7c4e#ch01) from *Bodies of Information* (2018)
++ Isabel Meirelles, "Visualizing Information" in _The Shape of Data in Digital Humanities_ (2019)
 + Catherine D'Ignazio and Lauren F. Klein, ["Show Your Work"](https://data-feminism.mitpress.mit.edu/pub/0vgzaln4/release/2) and ["Conclusion: Now Let's Multiply"](https://data-feminism.mitpress.mit.edu/pub/a1ao95xs/release/2) from *Data Feminism* (2020)
 
 #### Penumbral Readings:
 
-+ Haley Wickham, [“A Layered Grammar of Graphics,”](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) *Journal of Computational and Graphical Statistics* (2010)
++ Hadley Wickham, [“A Layered Grammar of Graphics,”](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf) *Journal of Computational and Graphical Statistics* (2010)
++ Johanna Drucker, [“Humanities Approaches to Graphical Display,”](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html) *DHQ* (2011)
 + Lauren F. Klein, “The Image of Absence: Archival Silence, Data Visualization, and James Hemings” (2013)
 
 #### Lab 7: Data visualization
@@ -162,6 +165,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Richard Jean So, “All Models are Wrong” (2017) 
 + Bethany Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the-world/) (2018)
 + Marisa Parham, ["Sample \| Signal \| Strobe: Haunting, Social Media, and Black Digitality,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/0fa03a28-d067-40b3-8ab1-b94d46bf00b6#ch11) from *Debates in the Digital Humanities 2019* 
++ Roopika Risam, "Rethinking the Human in Digital Humanities" from *New Digital Worlds* (2019)
 + Eun Seo Jo and Timnit Gebru, ["Lessons from Archives: Strategies for Collecting Sociocultural Data in Machine Learning"](http://arxiv.org/abs/1912.10389) (2020)
 
 #### Penumbral Readings:
