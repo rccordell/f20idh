@@ -7,6 +7,8 @@ title: Course Schedule
 
 ## Schedule Notes
 
+All readings are available online, some through direct links and some in our [class Leganto list](https://northeastern.alma.exlibrisgroup.com/leganto/public/01NEU_INST/lists/10850708140001401?auth=SAML). If there's not a direct link in the schedule below, check Leganto to see if the reading is there. You will need to log in to Leganto using your NU credentials. 
+
 ### On Readings:
 
 Each week there are readings listed under *Core* and *Penumbra*. The core readings are just that: central to the week's discussion and lab. Everyone should read these closely and prepare to discuss them. The penumbral readings include some of the many brilliant pertinent readings I could not require because time is, sadly, finite. If at all possible, I encourage you to choose one of the penumbral readings each week, based on your own interests, to read closely and be prepared to discuss in class. 
@@ -139,7 +141,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 -----
 
-## Week 7 | October 21 | Visualize 
+## Week 7 | October 21 | Do You Visualize? 
 
 #### Core Readings:  
 
@@ -180,12 +182,12 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 -----
 
-## Week 9 | November 4 | Data Manifest
+## Week 9 | November 4 | Manifestly Digital
 
 #### Core Readings:
 
 + Matthew G. Kirschenbaum, “Extreme Inscription: A Grammatology of the Hard Drive,” from *Mechanisms: New Media and the Forensic Imagination* (2008)
-+ Review the brief "Project Snapshots" throughout *Making Things and Drawing Boundaries* (2017)
++ Review the brief "Project Snapshots" throughout [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries) (2017)
 + Julia Flanders, ["Building Otherwise"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16) from *Bodies of Information* (2018)
 + Kate Crawford and Vladan Joler, [“Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor”](https://anatomyof.ai/) (2018)
 + Kari Kraus, ["The Care of Enchanted Things,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa#ch14) in *Debates in the Digital Humanities 2019*
