@@ -8,7 +8,9 @@ title: Course Description
 ## Course Details
 
 + Meeting Day/Time: Wednesdays, 2:30-5:30 EDT
-+ Location: Holmes Hall 400B
++ Location: Mostly Zoom, also Holmes Hall 400B
++ Fall General Student Hours: Tuesday and Friday 2-3pm; Graduate Student Hours: Friday 3-4pm, and by appointment
++ Class Discord Server: link provided in class
 
 ## Course Description
 

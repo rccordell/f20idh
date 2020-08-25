@@ -7,6 +7,9 @@ title: Course Policies
 
 *Image from [Pete Birkinshaw](https://www.flickr.com/photos/binaryape/5151286161/sizes/l/) via Flickr*
 
+## Communication
+
+This course will run through Zoom and chat in a Discord server, the latter of which is also how you'll connect with me during student hours. I will also use Discord to send "just-in-time" announcements, so consider keeping it open, downloading the app, or setting a reminder to check it regularly. I also expect to keep Discord open when I'm working, so if you need to chat ping me there first to see if I'm around. If not, send me a message suggesting a few possible meeting times. 
 
 ## Caveat Emptor
 
