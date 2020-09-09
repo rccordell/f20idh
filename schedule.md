@@ -31,7 +31,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 + Susan Schreibman, Ray Siemens, and John Unsworth, ["The Digital Humanities and Humanities Computing: An Introduction"](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-1-3&toc.depth=1&toc.id=ss1-1-3&brand=9781405103213_brand), from *Blackwell Companion to Digital Humanities* (2004)
 + Susan Hockey, [“The History of Humanities Computing”](http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1&toc.depth=1&toc.id=ss1-2-1&brand=9781405103213_brand), from *Blackwell Companion to Digital Humanities* (2004)
-+ Alan Liu, ["Imagining the New Media Encounter"](digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand), from *Blackwell Companion to Digital Literary Studies* (2008)
++ Alan Liu, ["Imagining the New Media Encounter,"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405148641/9781405148641.xml&chunk.id=ss1-3-1&toc.depth=1&toc.id=ss1-3-1&brand=9781405148641_brand) from *Blackwell Companion to Digital Literary Studies* (2008)
 
 #### Lab 1: Version control
 
