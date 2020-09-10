@@ -60,6 +60,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 ## Week 3 | September 23 | Data Basis
 
+**Guest: Lauren Klein**
+
 #### Core Readings: 
 
 + Jessica Marie Johnson, “Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads,” *Social Text* (2018)
@@ -205,6 +207,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 -----
 
 ## Week 10 | November 11 | Proceed with Care
+
+**Secret Special Visitors**
 
 #### Core Readings:
 
