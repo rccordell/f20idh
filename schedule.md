@@ -53,7 +53,6 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Rosanne G. Potter, “Literary Criticism and Literary Computing: The Difficulties of a Synthesis” from *Computers and the Humanities* (1988)
 + Yohei Igarashi, “Statistical Analysis at the Birth of Close Reading” from *New Literary History* (2015)
 + Roopika Risam, ["Beyond the Margins: Intersectionality and the Digital Humanities"](digitalhumanities.org/dhq/vol/9/2/000208/000208.html), *DHQ* (2015)
-+ Scott B. Weingart, ["The Route of a Text Message, a Love Story"](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story?) (2019)
 
 #### Lab 2: A domain of your own
 
@@ -65,7 +64,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 + Jessica Marie Johnson, “Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads,” *Social Text* (2018)
 + Quinn Dombrowski, ["DSC #1 - Quinn’s Great idea"](https://datasittersclub.github.io/site/dsc1/) (2019)
-+ Julia Flanders and Fotis Jannidis, “Data modeling in a digital humanities context” from *The Shape of Data in Digital Humanities* (2019).
++ Scott B. Weingart, ["The Route of a Text Message, a Love Story"](https://www.vice.com/en_us/article/kzdn8n/the-route-of-a-text-message-a-love-story?) (2019)
 + Catherine D'Ignazio and Lauren F. Klein, ["Collect, Analyze, Imagine, Teach"](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/2) and ["'What Gets Counted Counts'"](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2) from *Data Feminism* (2020) 
 
 #### Penumbral Readings:
@@ -74,6 +73,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Melissa Terras and Julianne Nyhan, [“Father Busa’s Female Punch Card Operatives”](http://dhdebates.gc.cuny.edu/debates/text/57) from *Debates in the Digital Humanities 2016* 
 + Sarah Allison, [“Other People’s Data: Humanities Edition,”](https://culturalanalytics.org/article/11822) *Cultural Analytics* (2016)
 + Sarah Wilson, “Black Folk by the Numbers: Quantification in Du Bois,” *American Literary History* (2016)
++ Julia Flanders and Fotis Jannidis, “Data modeling in a digital humanities context” from *The Shape of Data in Digital Humanities* (2019)
 + Catherine D'Ignazio and Lauren F. Klein, ["On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"](https://data-feminism.mitpress.mit.edu/pub/5evfe9yd/release/3) from *Data Feminism* (2020) 
 
 #### Lab 3: Data and Metadata
@@ -136,6 +136,7 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 + Anna Lowenhaupt Tsing, “On Nonscalability: The Living World Is Not Amenable to Precision-Nested Scales,” Common Knowledge 18.3 (2012)
 + Denis Tenen, “Computational Poetics: An Introduction” and “Metaphor Machines” from *Plain Text: The Poetics of Computation* (2018) 
 + Michael Gavin, ["Is There a Text in My Data?"](https://culturalanalytics.org/article/11830), *Cultural Analytics* (2019) 
+
 
 #### Lab 6: Text as data II
 
