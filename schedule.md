@@ -206,7 +206,11 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 -----
 
-## Week 10 | November 11 | Proceed with Care
+## Week 10 | November 11 | No Class — Veteran's Day
+
+-----
+
+## Week 11 | November 18 | Proceed with Care
 
 **Secret Special Visitors**
 
@@ -220,16 +224,6 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 + Choose 3-4 pieces (they're mostly short) from the forum, "Ethics, Series, and Practices of Care" in [*Debates in the Digital Humanities 2019*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019)  
 
-#### Lab 10: Collaborative choice I
-
------
-
-## Week 11 | November 18 | Chosen by class
-
-#### Readings:  
-
-#### Lab 11: Collaborative choice II
-
 -----
 
 ## Thanksgiving Break
@@ -238,9 +232,9 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 ## Week 12 | December 2 | Chosen by class
 
-#### Readings:  
+#### Readings: TBD together
 
-#### Lab 12: Collaborative Choice III
+#### Lab 11: Collaborative choice II
 
 -----
 
