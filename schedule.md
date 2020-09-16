@@ -62,6 +62,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 **Guest: Lauren Klein**
 
+Discussion Leader: Nicole
+
 #### Core Readings: 
 
 + Jessica Marie Johnson, “Markup Bodies: Black \[Life\] Studies and Slavery \[Death\] Studies at the Digital Crossroads,” *Social Text* (2018)
@@ -84,6 +86,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 ## Week 4 | September 30 | A tinu prdolem6
 
+Discussion Leader: Ben
+
 #### Core Readings:  
 
 + Ryan Cordell, [“‘Q i-jtb the Raven’: Taking Dirty OCR Seriously,”](https://ryancordell.org/research/qijtb-the-raven/) *Book History* (2017)
@@ -105,6 +109,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 ## Week 5 | October 7 | Algorithm Nation
 
+Discussion Leader: Taryn
+
 #### Core Readings: 
 
 + Ted Underwood, [“Seven Ways Humanists Are Using Computers to Understand Text”](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) (2015)
@@ -124,6 +130,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 -----
 
 ## Week 6 | October 14 | Text Messages
+
+Discussion Leader: Julianna
 
 #### Core Readings:
 
@@ -146,6 +154,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 ## Week 7 | October 21 | Do You Visualize? 
 
+Discussion Leader: Giorgia
+
 #### Core Readings:  
 
 + Giorgia Lupi and Stefanie Posavec, *Dear Data* (2016)
@@ -164,6 +174,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 -----
 
 ## Week 8 | October 28 | Next: Top Models
+
+Discussion Leader: Emily
 
 #### Core Readings:
 
@@ -186,6 +198,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 -----
 
 ## Week 9 | November 4 | Manifestly Digital
+
+Discussion Leader: Shannon
 
 #### Core Readings:
 
@@ -214,6 +228,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 
 **Secret Special Visitors**
 
+Discussion Leader: Joseph
+
 #### Core Readings:
 
 + Bethany Nowviskie, ["Change Us, Too"](http://nowviskie.org/2019/change-us-too/#more-3469) (2019) 
@@ -231,6 +247,8 @@ To begin understanding the field, we'll review the editor(s)'s introductions to 
 -----
 
 ## Week 12 | December 2 | Chosen by class
+
+Discussion Leader: Kaitlin, Zach, Michael
 
 #### Readings: TBD together
 
