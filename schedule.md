@@ -238,8 +238,10 @@ Discussion Leader: Joseph
 
 #### Penumbral Readings:
 
-+ Choose 3-4 pieces (they're mostly short) from the forum, "Ethics, Series, and Practices of Care" in [*Debates in the Digital Humanities 2019*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019)  
++ Choose 3-4 pieces (they're mostly short) from the forum, "Ethics, Series, and Practices of Care" in [*Debates in the Digital Humanities 2019*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019) 
 
+#### Lab 10: Collaborative choice I
+ 
 -----
 
 ## Thanksgiving Break
