@@ -41,17 +41,17 @@ I don't use RegEx everyday. I don't have its intricacies memorized. Typically I 
 
 In the next section, we will be thinking about how to approach cleaning a dataset using RegEx. We will focus on the `publish_places` field from a spreadsheet of book titles, and move on to some values in the crew lists data we saw last week. To start, however, let's just paste the values below into the "Text String" box at [Regular Expressions 101](https://regex101.com/). 
 
-`
-[Chanhassen, MN]
-Washington [D.C.]
-San Francisco, Calif
-Paramus, N.J
-[Chanhassen, Minn.?]
-New York, N.Y., U.S.A
-"Redmond, Wash"
-"Upper Saddle River, N.J"
+```
+[Chanhassen, MN]  
+Washington [D.C.]  
+San Francisco, Calif  
+Paramus, N.J  
+[Chanhassen, Minn.?]  
+New York, N.Y., U.S.A  
+"Redmond, Wash"  
+"Upper Saddle River, N.J"  
 [San Francisco, CA]
-`
+```
 
 Our goal is to figure out what RegEx would convert these idiosyncratic addresses into a standard pattern: city name in one column, and two-letter state abbreviation in another. With such a diverse set of patterns, we probably can't write a single RegEx that would convert them all in one fell swoop. But within the actual dataset there are many examples of each of these patterns, so it would be to our benefit to develop a few RegEx that will help us clean the data in a few steps rather than line by line. As we work, we'll want to consider:
 
@@ -73,11 +73,11 @@ The following guide to basic RegEx operators was (very lightly) adapted from Pro
 + `+` matches the preceding expression **at least one time.**
 + `?` matches the preceding expression exactly **zero or one times.**
 
-##### `[]`
+`[]`
 
 You can use brackets to indicate a **range** of characters. Suppose you are searching through the Schmidt family records, but learn that 18th century families often spelled the name "Schmitt." The regular expression `Schmi[td]t` would match either spelling. 
 
-##### `()`
+`()`
 
 Parenthesis let you group a set of characters together. That is useful with replacements, described below: but it also lets you apply the operators above to **groups** of words.
 
@@ -87,17 +87,17 @@ Suppose you have a document full of references to John Quincy Adams, but that it
 
 Note that you need the period too, or else it won't match for `John Q. Adams`.
 
-##### `.`
+`.`
 
 One last special character is the period, which matches *any single character*. The previous regex, for John Q. Adams, 
 
 The most capacious regex of all is `.*` which tells the parser to match "any character any number of times." There are situations where this can be useful, particularly inside another regex.
 
-##### `^`
+`^`
 
 If typed after an opening square bracket, the caret negates the character class inside the brackets. Thus `f[^i]at` would match `feat` but not `fiat`.
 
-##### `{}`
+`{}`
 
 For most cases, `*`, `+`, or `?` will work to capture an expression. But if you want to specify a particular number of times, you can use angle brackets. So to find Santa Claus, you could type `(Ho){3}`. (Just to clarify: that is totally Ben Schmidt's joke, not Ryan Cordell's).
 
@@ -137,18 +137,18 @@ The regex `s/(.*) (.*)/\2, \1/` matches any characters, followed by a space, fol
 #### Creating other special characters.
 Other important special characters come from prefacing letters.
 
-* `\n`: a "newline"
-* `\t`: a **tab**
++ `\n`: a "newline"
++  `\t`: a **tab**
 
 
 In addition, other special characters will match a whole **range** of letters.
 Usually, there would be a way to write these as a regular expression on their own:
 but it can be very helpful to have a more succinct version. Some of the most useful are:
 
-* `\w`: Any **word** character. (The same as `[A-Za-z]`).
-* `\W`: Any **non-word** character. (The same as [^A-Z-a-z])
-* `\d`: Any **numeric** (digit) character.
-* `\D`: Any **non-numeric** (digit) character.
++ `\w`: Any **word** character. (The same as `[A-Za-z]`).
++ `\W`: Any **non-word** character. (The same as \[^A-Z-a-z\])
++ `\d`: Any **numeric** (digit) character.
++ `\D`: Any **non-numeric** (digit) character.
 
 (If you are working in non-English languages, there are unicode extensions that work off the special character `\p` (or `\P` to designate the inverse of a selection). `\p{L}` matches
 any unicode letter, for example. See [the unicode web site](http://www.unicode.org/reports/tr18/) for more on this.)
