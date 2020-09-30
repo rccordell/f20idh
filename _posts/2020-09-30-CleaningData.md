@@ -61,6 +61,8 @@ Our goal is to figure out what RegEx would convert these idiosyncratic addresses
 
 What fields in the [Nineteenth-Century Whaling Crews](https://docs.google.com/spreadsheets/d/1XuaCaCcY4Lk64TG-XJhefRrgDPhV6_RIVuyU78EOYTo/copy) data might be useful for exploring RegEx?
 
+Next, why don't we think about how RegEx might help prepare a text like [this one from Project Gutenberg](https://dev.gutenberg.org/files/408/408-0.txt) for analysis. 
+
 ### Basic search-replace operations
 
 The following guide to basic RegEx operators was (very lightly) adapted from Prof. Schmidt's RegEx exercise in the 2015 Humanities Data Analysis Course
