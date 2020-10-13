@@ -18,7 +18,7 @@ This assignment was developed from exemplars developed by [Matthew Gold](https:/
 
 ## The Nitty-Gritty
 
-During this class we have overviewed (some of) the DH field and surveyed a range of tools and methods for analyzing data. We have not yet cultivated the kinds of expertise in a method that would allow you to create a project in full, nor will the few weeks available to us allow robust development. Instead of building a project, then, for your final exercise you will write a _research proposal_ for the DH project you would pursue, given world enough and time (and expertise and funding). If this is project you actually expect to develop, perhaps as part of your DH certificate, all the better.
+During this class we have overviewed (some of) the DH field and surveyed a range of tools and methods for analyzing data. We have not yet cultivated the kinds of expertise in a method that would allow you to create a project in full, nor will the few weeks available to us allow robust development. Instead of building a project, then, for your final exercise you will write a _research proposal_ for the DH project you would pursue, given world enough and time (and expertise and funding). If this happens to be a project you actually expect to develop, perhaps toward your DH certificate, all the better.
 
 ### Possible Topics
 
@@ -34,7 +34,7 @@ Your project can be on any topic within DH (broadly understood).[^ODH] Sample pr
 
 ### Proposal Models
 
-One model for these project proposals is the grant proposal, such as those submitted to [the NEH Digital Humanities Advancement Grants](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) program (see the sample narratives), though I am open to other models of similar scope and complexity in another context, such as a proposal developed for a non-profit organization). 
+One model for these project proposals is the grant proposal, such as those submitted to [the NEH Digital Humanities Advancement Grants](https://www.neh.gov/grants/odh/digital-humanities-advancement-grants) program (see the sample narratives), though I am open to other models of similar scope and complexity in another context, such as a proposal developed for a non-profit organization. If you'd like to develop toward a different model, let me know and we can work out the precise elements of your proposal.
 
 ### Proposal Format
 
@@ -50,9 +50,11 @@ Unless we discuss an alternative structure, your proposal should be 15-20 pages 
 	4. A brief description of the necessary project staff, including the project director and collaborators who would need to work on the project. As in #3, these can be described by role.
 	5.  A description of the final product and how it will be shared/distributed
 5. **Data management plan**: this describing how data will be managed, stored, and documented during development work and how it will be sustained beyond the proposal's timeline.
-6. **Budget**: The proposal should include a full budget and budget justification, both of which take institutional overhead into account.
+6. **Budget**: The proposal should include a full budget and budget justification, both of which take institutional overhead into account. If you don't know what "institutional overhead" is, don't worry—we'll discuss it.
 
-A full grant proposal would be a bit longer and include a few additional elements, such as letters of support, but these are not feasible for an in-class assignment. We will discuss these elements together and I will recommend resources, such as sample proposals, you can consult during development. 
+An actual grant proposal would be a bit longer and include a few additional elements, such as letters of support, but these are not feasible for an in-class assignment. We will discuss this structure in class and I will recommend resources, such as sample proposals, you can consult as you plan and draft. 
 
 The primary goal of this assignment is to help you think not just about what DH tools are available, or what questions you might ask about/using them, but to prompt you to ground those ideas in practical implementation. What would you need to know to pursue the project you have in mind? What resources would you need? What kinds of collaboration or support would be required to realize your project's goals? Where might you find those needed resources, tools, or collaborators? 
+
+In our final class together, you will briefly present your proposals in a lightning-talk format. 
 
