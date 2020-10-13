@@ -14,7 +14,7 @@ title: DH Project Proposal
 
 ## Assignment Acknowledgments
 
-This assignment was developed from exemplars developed by [Matthew Gold](https://www.dropbox.com/s/g8wiqzzlikulutl/final-assignment.docx?dl=0), [Quinn Dombrowski](https://github.com/quinnanya/dlcl205/blob/master/dlcl205syllabus.md), [Alan Liu](https://alanyliu.org/courses/english-238-fall-2019/assignments/#researchproposal), and Jim McGrath, among many others.
+This assignment was developed from exemplars developed by [Matthew Gold](https://www.dropbox.com/s/g8wiqzzlikulutl/final-assignment.docx?dl=0), [Quinn Dombrowski](https://github.com/quinnanya/dlcl205/blob/master/dlcl205syllabus.md), [Alan Liu](https://alanyliu.org/courses/english-238-fall-2019/assignments/#researchproposal), and Jim McGrath, among many others who [responded to this question](https://twitter.com/ryancordell/status/1316009218412089349). 
 
 ## The Nitty-Gritty
 
