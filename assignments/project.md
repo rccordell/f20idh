@@ -58,3 +58,7 @@ The primary goal of this assignment is to help you think not just about what DH 
 
 In our final class together, you will briefly present your proposals in a lightning-talk format. 
 
+-----
+
+
+
