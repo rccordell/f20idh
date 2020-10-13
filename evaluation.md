@@ -12,7 +12,7 @@ Your work in Intro to DH will happen across four major assignments:
 + [Leading Class Discussion](/assignments/discussion/)
 + [A Domain of Your Own](/assignments/domain/)
 + [Blogging](/assignments/blogging/)
-+ [Collaborative Project](/assignments/project/)
++ [Project Proposal](/assignments/project/)
 
 ## Evaluation 
 
