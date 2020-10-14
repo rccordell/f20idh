@@ -9,7 +9,7 @@ title: Blogging
 
 + A growing portfolio of short-format scholarly writing, added to [your personal website](/assignments/domain/)
 + Students work individually (but read each other's work)
-+ Six posts contributed through the semester, with *at least two* published before mid-term
++ Five posts contributed through the semester, with *at least two* published before mid-term
 + Posts of ~750-1500 words length
 + Posts published *at least* one week apart
 
@@ -19,4 +19,4 @@ Scholars in a field called “digital humanities” are, perhaps not surprisingl
 
 ### Flexibility
 
-"Intro to DH" is a challenging and full class. The semester will include thirteen weeks of readings and eleven or twelve labs. To give you some flexibility, you may choose six weeks during which to blog. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. To that end, *at least two posts* must be finished before mid-term, and I would strongly urge to to strive for three before mid-term.
+"Intro to DH" is a challenging and full class. The semester will include thirteen weeks of readings and eleven or twelve labs. To give you some flexibility, you may choose five weeks during which to blog. I strongly recommend you not delay starting this work, but instead begin early and work steadily so that you can use this flexibility as the inevitable stresses of the semester emerge. To that end, *at least two posts* must be finished before mid-term, and I would strongly urge to to strive for three before mid-term.
