@@ -197,26 +197,7 @@ Discussion Leader: Emily
 
 -----
 
-## Week 9 | November 4 | Manifestly Digital
-
-Discussion Leader: Shannon
-
-#### Core Readings:
-
-+ Matthew G. Kirschenbaum, “Extreme Inscription: A Grammatology of the Hard Drive,” from *Mechanisms: New Media and the Forensic Imagination* (2008)
-+ Review the brief "Project Snapshots" throughout [*Making Things and Drawing Boundaries*](https://dhdebates.gc.cuny.edu/projects/making-things-and-drawing-boundaries) (2017)
-+ Julia Flanders, ["Building Otherwise"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16) from *Bodies of Information* (2018)
-+ Kate Crawford and Vladan Joler, [“Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor”](https://anatomyof.ai/) (2018)
-+ Kari Kraus, ["The Care of Enchanted Things,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa#ch14) in *Debates in the Digital Humanities 2019*
-+ Élika Ortega, ["The Many Books of the Future: Print-digital Literatures,"](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) *Post45* (2020)
-
-#### Penumbral Readings:
-
-+ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, “Bibliocircuitry and the Design of the Alien Everyday” (2013)
-+ Jentery Sayers, ["I Don’t Know All the Circuitry"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/7d8fca82-c6ca-480f-bf17-1df4a2cdb577#intro) from *Making Things and Drawing Boundaries* (2017)
-+ Matthew Kirschenbaum, ["Bibliologistics: The Nature of Books Now, or A Memorable Fancy,"](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/) *Post45* (2020)
-
-#### Lab 9: Data physicalization 
+## Week 9 | November 4 | Mental Health Reschedule
 
 -----
 
@@ -228,19 +209,27 @@ Discussion Leader: Shannon
 
 **Secret Special Visitors**
 
-Discussion Leader: Joseph
+Discussion Leader: Shannon and Joseph
 
 #### Core Readings:
 
++ Kate Crawford and Vladan Joler, [“Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor”](https://anatomyof.ai/) (2018)
 + Bethany Nowviskie, ["Change Us, Too"](http://nowviskie.org/2019/change-us-too/#more-3469) (2019) 
 + Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02) from *Debates in the Digital Humanities 2019*
++ Kari Kraus, ["The Care of Enchanted Things,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa#ch14) in *Debates in the Digital Humanities 2019*
 + Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, [“DSC #5: The DSC and the Impossible TEI Quandaries”](https://datasittersclub.github.io/site/dsc5/) (2020)
 
 #### Penumbral Readings:
 
-+ Choose 3-4 pieces (they're mostly short) from the forum, "Ethics, Series, and Practices of Care" in [*Debates in the Digital Humanities 2019*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019) 
++ Matthew G. Kirschenbaum, “Extreme Inscription: A Grammatology of the Hard Drive,” from *Mechanisms: New Media and the Forensic Imagination* (2008)
++ Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, and Kathryn Skutlin, “Bibliocircuitry and the Design of the Alien Everyday” (2013)
++ Jentery Sayers, ["I Don’t Know All the Circuitry"](https://dhdebates.gc.cuny.edu/read/untitled-aa1769f2-6c55-485a-81af-ea82cce86966/section/7d8fca82-c6ca-480f-bf17-1df4a2cdb577#intro) from *Making Things and Drawing Boundaries* (2017)
++ Julia Flanders, ["Building Otherwise"](https://dhdebates.gc.cuny.edu/read/untitled-4e08b137-aec5-49a4-83c0-38258425f145/section/f627035f-5fd0-4bd6-ad74-361374ed9a2a#ch16) from *Bodies of Information* (2018)
++ Choose 3-4 pieces (they're mostly short) from the forum, "Ethics, Series, and Practices of Care" in [*Debates in the Digital Humanities 2019*](https://dhdebates.gc.cuny.edu/projects/debates-in-the-digital-humanities-2019)
++ Matthew Kirschenbaum, ["Bibliologistics: The Nature of Books Now, or A Memorable Fancy,"](https://post45.org/2020/04/bibliologistics-the-nature-of-books-now-or-a-memorable-fancy/) *Post45* (2020)
++ Élika Ortega, ["The Many Books of the Future: Print-digital Literatures,"](https://post45.org/2020/04/the-many-books-of-the-future-print-digital-literatures/) *Post45* (2020)
 
-#### Lab 10: Collaborative choice I
+#### Lab 9: Collaborative choice I
  
 -----
 
