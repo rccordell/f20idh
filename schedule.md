@@ -214,7 +214,7 @@ Discussion Leader: Shannon and Joseph
 #### Core Readings:
 
 + Kate Crawford and Vladan Joler, [“Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor”](https://anatomyof.ai/) (2018)
-+ Bethany Nowviskie, ["Change Us, Too"](http://nowviskie.org/2019/change-us-too/#more-3469) (2019) 
++ Bethany Nowviskie, ["Change Us, Too"](http://nowviskie.org/2019/change-us-too/) (2019) 
 + Safiya Umoja Noble, ["Toward a Critical Black Digital Humanities,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687#ch02) from *Debates in the Digital Humanities 2019*
 + Kari Kraus, ["The Care of Enchanted Things,"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/d74d1f76-372e-4427-8835-36c9baf7ebaa#ch14) in *Debates in the Digital Humanities 2019*
 + Elisa Beshero-Bondar, Lee Skallerup Bessette, Quinn Dombrowski, and Roopika Risam, [“DSC #5: The DSC and the Impossible TEI Quandaries”](https://datasittersclub.github.io/site/dsc5/) (2020)
