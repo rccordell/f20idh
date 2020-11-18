@@ -251,6 +251,8 @@ Discussion Leader: Kaitlin, Zach, Michael
 ## Week 13 | December 9 | Final Project Discussion/Presentation  
 
 
+## Project Proposals DUE - Thursday, December 17th
+
 
 
 
