@@ -241,7 +241,18 @@ Discussion Leader: Shannon and Joseph
 
 Discussion Leader: Kaitlin, Zach, Michael
 
-#### Readings: TBD together
+#### Core Readings:
+
++ Jo Guldi, ["What Is the Spatial Turn?](http://spatial.scholarslab.org/spatial-turn/what-is-the-spatial-turn/), ["The Spatial Turn in Literature,"](http://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-literature/index.html), and ["The Spatial Turn in Sociology,"](http://spatial.scholarslab.org/spatial-turn/the-spatial-turn-in-sociology/index.html) (2013)
++ Laura Herbert, ["What Do Maps Really Do?"](https://www.thoughtco.com/what-do-maps-really-do-4088786) (2018)
++ David Haeselin, ["Beyond the Borders of the Page: Mapping The Brief Wondrous Life of Oscar Wao,"](https://jitp.commons.gc.cuny.edu/beyond-the-borders-of-the-page-mapping-the-brief-wondrous-life-of-oscar-wao/), *The Journal of Interactive Technology and Pedagogy* (2018)
++ Sureshi M. Jayawardene, "StoryMap(ping) Black Urban Experiences: Toward an Africana DH Subfield Through Research and Pedagogy," *Journal of African American Studies* (2020)
+
+#### Penumbral Readings: 
+
++ Bethany Nowviskie, ["'Inventing the Map' in the Digital Humanities: a Young Lady's Primer,"](https://journals.tdl.org/paj/index.php/paj/article/view/11) *Poetess Archive Journal* (2010)
++ Susan Schulten, "The Cartography of Slavery and the Authority of Statistics," *Civil War History* (2010)
++ Tim Wallace, ["Kevin Lynch and the Imageable Boston"](http://bostonography.com/2010/kevin-lynch-the-imageable-boston/) (2010)
 
 #### Lab 11: Collaborative choice II
 
